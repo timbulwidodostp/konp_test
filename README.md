@@ -1,6 +1,8 @@
 # konp_test
 KONP tests are K-sample Omnibus Non-Proportional hazards tests for right-censored data Use konp_test (KONPsurv) With (In) R Software
 
+https://www.youtube.com/watch?v=Ew0prtJBRi8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
